@@ -4,7 +4,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, you can run:
+Download the project and delete the nodes_module folder. In the project directory, you can run:
+
+### `npm install`
 
 ### `yarn start`
 
